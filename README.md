@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @adwinmbd
 - 👀 I’m interested in software development and information technology service management.
-- 🌱 I’m currently learning golang and the jamstack
+- 🌱 I’m currently learning c# and the jamstack
 - 💞️ I’m looking to collaborate on web development projects especially on the jamstack
 - 📫 How to reach me @adwinmbd
 
