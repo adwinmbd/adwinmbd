@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @adwinmbd
 - 👀 I’m interested in software development and information technology service management.
 - 🌱 I’m currently learning [c#](https://docs.microsoft.com/en-us/dotnet/csharp/) and the [Jamstack](https://jamstack.org)
-- 💞️ I’m looking to collaborate on web development projects especially on the jamstack
-- 📫 How to reach me @adwinmbd
+- 👯 I’m looking to collaborate on web development projects especially on the jamstack
+
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=adwinmbd&layout=compact&langs_count=8)](https://github.com/adwinmbd)
 
