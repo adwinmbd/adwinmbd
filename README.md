@@ -3,12 +3,6 @@
 - 🌱 I’m currently learning [c#](https://docs.microsoft.com/en-us/dotnet/csharp/) and the [Jamstack](https://jamstack.org)
 - 👯 I’m looking to collaborate on web development projects especially on the jamstack
 
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=adwinmbd&layout=compact&langs_count=8)](https://github.com/adwinmbd)
-
-[![Adwinmbd GitHub stats](https://github-readme-stats.vercel.app/api?username=adwinmbd)](https://github.com/adwinmbd)
-
-
 <!---
 adwinmbd/adwinmbd is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
