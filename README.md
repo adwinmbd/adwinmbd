@@ -5,7 +5,7 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=adwinmbd&layout=compact&langs_count=8)](https://github.com/adwinmbd)
 
-[![Adwinmbd GitHub stats](https://github-readme-stats.vercel.app/api?username=adwinmbd&include_all_commits=true)](https://github.com/adwinmbd)
+[![Adwinmbd GitHub stats](https://github-readme-stats.vercel.app/api?username=adwinmbd&count_private=true)](https://github.com/adwinmbd)
 
 <!---
 adwinmbd/adwinmbd is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
