@@ -1,11 +1,11 @@
-- 👋 Hi, I’m @adwinmbd
-- 👀 I’m interested in software development and information technology service management.
-- 🌱 I’m currently learning [c#](https://docs.microsoft.com/en-us/dotnet/csharp/) and the [Jamstack](https://jamstack.org)
-- 👯 I’m looking to collaborate on web development projects especially on the jamstack
+### Hey everyone, [Adwin](https://github.com/adwinmbd) here 👋
 
-![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=adwinmbd&theme=dracula)
-![](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=adwinmbd&theme=dracula) 
-![](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=adwinmbd&theme=dracula)
+I'm a self-taught, full-stack developer with a love for the [Jamstack](https://jamstack.org).
+
+I am currently exploring [Dotnet Core](https://dotnet.microsoft.com/en-us/) with a focus on building web APIs with [ASP.NET](https://learn.microsoft.com/en-us/aspnet/core/introduction-to-aspnet-core)
+
+[![GitHub stats](https://github-readme-stats.vercel.app/api?username=adwinmbd&count_private=true&show_icons=true&hide=contribs&hide_rank=true&theme=dracula)](https://github.com/adwinmbd/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=adwinmbd&layout=compact&langs_count=6&hide=html&theme=dracula)](https://github.com/adwinmbd/github-readme-stats)
 
 <!---
 adwinmbd/adwinmbd is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
