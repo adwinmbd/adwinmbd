@@ -1,0 +1,11 @@
+# Exclude Jupyter Notebooks
+*.ipynb linguist-vendored
+
+# Exclude RTF files
+*.rtf linguist-vendored
+
+# Exclude HTML
+*.html linguist-vendored
+
+# Exclude SCSS
+*.scss linguist-vendored
