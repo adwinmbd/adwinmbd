@@ -1,11 +1,12 @@
 ### Hey everyone, [Adwin](https://github.com/adwinmbd) here 👋
 
-I'm a self-taught, full-stack developer with a love for the [Jamstack](https://jamstack.org).
+I'm a self-taught, full-stack developer with a love for web development.
 
-I am currently exploring [Dotnet Core](https://dotnet.microsoft.com/en-us/) with a focus on building web APIs with [ASP.NET](https://learn.microsoft.com/en-us/aspnet/core/introduction-to-aspnet-core)
+I am currently exploring [Golang](https://go.dev) with a focus on building Multi Page Applications.
 
-[![GitHub stats](https://github-readme-stats.vercel.app/api?username=adwinmbd&count_private=true&show_icons=true&hide=contribs&hide_rank=true&theme=dracula)](https://github.com/adwinmbd/github-readme-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=adwinmbd&layout=compact&langs_count=6&hide=html&theme=dracula)](https://github.com/adwinmbd/github-readme-stats)
+[![GitHub Stats](https://github-stats-extended.vercel.app/api?username=adwinmbd&show_icons=true&include_all_commits=true&theme=catppuccin_latte)](https://github-stats-extended.vercel.app/api?username=adwinmbd&show_icons=true&include_all_commits=true&theme=catppuccin_latte)
+
+[![GitHub Stats](https://github-stats-extended.vercel.app/api/top-langs?username=adwinmbd&langs_count=4&theme=catppuccin_latte)](https://github-stats-extended.vercel.app/api/top-langs?username=adwinmbd&langs_count=4&theme=catppuccin_latte)
 
 <!---
 adwinmbd/adwinmbd is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
