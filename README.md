@@ -4,9 +4,7 @@ I'm a self-taught, full-stack developer with a love for web development.
 
 I am currently exploring [Golang](https://go.dev) with a focus on building Multi Page Applications.
 
-[![GitHub Stats](https://github-stats-extended.vercel.app/api?username=adwinmbd&show_icons=true&include_all_commits=true&theme=catppuccin_latte)](https://github-stats-extended.vercel.app/api?username=adwinmbd&show_icons=true&include_all_commits=true&theme=catppuccin_latte)
-
-[![GitHub Stats](https://github-stats-extended.vercel.app/api/top-langs?username=adwinmbd&langs_count=4&theme=catppuccin_latte)](https://github-stats-extended.vercel.app/api/top-langs?username=adwinmbd&langs_count=4&theme=catppuccin_latte)
+[![GitHub Stats](https://github-stats-extended.vercel.app/api/top-langs?username=adwinmbd&langs_count=4&theme=catppuccin_latte&hide=css,Jupyter%20Notebook)](https://github-stats-extended.vercel.app/api/top-langs?username=adwinmbd&langs_count=4&theme=catppuccin_latte&hide=css,Jupyter%20Notebook)
 
 <!---
 adwinmbd/adwinmbd is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
